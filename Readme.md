@@ -50,3 +50,10 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+
+testar conexao
+
+$ ssh -T git@github.com
+# Attempts to ssh to GitHub
+
